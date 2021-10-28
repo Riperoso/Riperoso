@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://github.com/Riperoso/Riperoso/blob/main/Mobile.png?raw=true"/>
+<img align="right" height="590em" src="https://github.com/Riperoso/Riperoso/blob/main/Mobile%20(1).png?raw=true"/>
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Filipe Santiago</h1>
 
 I'm a  Software Engineer and Front-end Developer, studying in Trybe since 2021.
